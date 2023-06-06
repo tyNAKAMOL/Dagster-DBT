@@ -1,0 +1,6 @@
+sources:
+  - name: public # Schema
+    tables:
+      - name: data_raw
+      - name: extract
+      - name: transform
